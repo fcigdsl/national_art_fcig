@@ -1,4 +1,6 @@
-BART is an ART application written in Ruby on Rails and is intended as a web front end for OpenMRS for supporting Malawi's ART system. 
+This application prototype is an extension of BART that adds an FCIG compatible 'Alerts and Reminders' framework.
+
+BART is an ART application written in Ruby on Rails and is intended as a web front end for OpenMRS for supporting Malawi's National ART system. 
 
 OpenMRS® is a community-developed, open-source, enterprise electronic medical 
 record system framework. We've come together to specifically respond to those 
